@@ -248,7 +248,7 @@
 
 		<hibernate.version>5.2.6.Final</hibernate.version>
 
-		<mysql.version>8.0.18</mysql.version>
+		<mysql.version>8.0.28</mysql.version>
 
 		<compileSource>1.8</compileSource>
 
