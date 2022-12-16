@@ -244,7 +244,7 @@
 
 		<jersey.version>2.25</jersey.version>
 
-		<spring.version>4.3.5.RELEASE</spring.version>
+		<spring.version>5.2.20.RELEASE</spring.version>
 
 		<hibernate.version>5.2.6.Final</hibernate.version>
 
